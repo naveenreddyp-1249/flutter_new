@@ -1,0 +1,12 @@
+{
+   "dashboard": [
+      { "name":"Pending Orders", "count": 200 },
+      { "name":"Active Orders", "count": 10 },
+      { "name":"Delivered Orders", "count": 500 },
+      { "name":"Customer Cancelled Orders", "count": 500 },
+      { "name":"Business", "count": 500 },
+      { "name":"Items", "count": 500 },
+      { "name":"Banners", "count": 500 },
+      { "name":"Promotions", "count": 500 }
+    ]
+   }
